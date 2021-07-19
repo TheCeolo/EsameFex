@@ -2,17 +2,13 @@
 
 [Repository del progetto angular](https://github.com/TheCeolo/EsameFexAngular)
 
-[Personas + CJM + STS](https://miro.com/app/board/o9J_l6aw5Q8=/)
+[Personas + CJM + STS](https://miro.com/app/board/o9J_l6ab7H8=/)
 
 
 # Istruzioni per visualizzare il progetto
 
-1. Installare nodeJs versione LTS dal sito `https://nodejs.org/it/download/`.
+1. Clonare la repository EsameFex.
 
-2. Scaricare il file EsameFex.zip ed estrarre la cartella.
+2. Aprire la cartella clonata.
 
-3. Aprire PowerShell e andare nel percorso della cartella estratta.
-
-4. eseguire il comando `ng serve`.
-
-4. Aprire qualsiasi browser e navigare sul sito `http://localhost:4200/`.
+3. fare doppio click sul file `index.html`.
